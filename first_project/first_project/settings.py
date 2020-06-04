@@ -27,7 +27,7 @@ SECRET_KEY = 'f$*%w1%5h^h#*^63-#f63m8i&40c8@7b$!0e(%befv_3&utv*$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['msz365.pythonanywhere.com']
 
 
 # Application definition
